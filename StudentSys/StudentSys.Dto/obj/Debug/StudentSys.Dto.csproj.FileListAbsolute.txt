@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\练习的api项目\StudentSys\StudentSys.Dto\bin\Debug\StudentSys.Dto.dll
+C:\Users\Administrator\Desktop\练习的api项目\StudentSys\StudentSys.Dto\bin\Debug\StudentSys.Dto.pdb
+C:\Users\Administrator\Desktop\练习的api项目\StudentSys\StudentSys.Dto\obj\Debug\StudentSys.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\练习的api项目\StudentSys\StudentSys.Dto\obj\Debug\StudentSys.Dto.dll
+C:\Users\Administrator\Desktop\练习的api项目\StudentSys\StudentSys.Dto\obj\Debug\StudentSys.Dto.pdb
+C:\Users\Administrator\Desktop\练习的api项目\StudentSys\StudentSys.Dto\obj\Debug\StudentSys.Dto.csprojAssemblyReference.cache

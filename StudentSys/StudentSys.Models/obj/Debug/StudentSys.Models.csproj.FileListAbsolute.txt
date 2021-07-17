@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\练习的api项目\StudentSys\StudentSys.Models\bin\Debug\StudentSys.Models.dll
+C:\Users\Administrator\Desktop\练习的api项目\StudentSys\StudentSys.Models\bin\Debug\StudentSys.Models.pdb
+C:\Users\Administrator\Desktop\练习的api项目\StudentSys\StudentSys.Models\obj\Debug\StudentSys.Models.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\练习的api项目\StudentSys\StudentSys.Models\obj\Debug\StudentSys.Models.dll
+C:\Users\Administrator\Desktop\练习的api项目\StudentSys\StudentSys.Models\obj\Debug\StudentSys.Models.pdb
+C:\Users\Administrator\Desktop\练习的api项目\StudentSys\StudentSys.Models\bin\Debug\StudentSys.Models.dll.config
+C:\Users\Administrator\Desktop\练习的api项目\StudentSys\StudentSys.Models\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\练习的api项目\StudentSys\StudentSys.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\练习的api项目\StudentSys\StudentSys.Models\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\练习的api项目\StudentSys\StudentSys.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\练习的api项目\StudentSys\StudentSys.Models\obj\Debug\StudentSys.Models.csproj.CopyComplete
+C:\Users\Administrator\Desktop\练习的api项目\StudentSys\StudentSys.Models\obj\Debug\StudentSys.Models.Migrations.createDb.resources
+C:\Users\Administrator\Desktop\练习的api项目\StudentSys\StudentSys.Models\obj\Debug\StudentSys.Models.csproj.GenerateResource.cache
