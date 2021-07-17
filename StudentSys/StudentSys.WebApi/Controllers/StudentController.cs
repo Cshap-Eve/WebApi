@@ -17,12 +17,10 @@ namespace StudentSys.WebApi.Controllers
 
         private readonly StudentManager _studentManager;
         private readonly EmployeeManager _employeeManager;
-        private readonly ClassTeacherManager _classTeacherManager;
         public StudentController() 
         {
             _studentManager = new StudentManager();
             _employeeManager = new EmployeeManager();
-            _classTeacherManager = new ClassTeacherManager();
         }
 
         [HttpPost]
